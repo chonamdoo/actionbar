@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
 
+group='com.github.chonamdoo'
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
